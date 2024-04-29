@@ -1,4 +1,4 @@
-import modules.screen as scr 
+import screen as scr 
 import os
 import json
 
